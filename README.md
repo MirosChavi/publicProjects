@@ -40,22 +40,25 @@ This repository contains several of my projects that I have worked on. Each proj
 
 ## 🔧 How to Use
 1. **Clone the repository**:
+   ```sh
    git clone https://github.com/your-username/publicProjects.git
    ```
 2. Navigate to the required project folder:
+   ```sh
    cd project-name
    ```
 3. Install dependencies (if the project is on Node.js):
+   ```sh
    npm i
    ```
 4. Run the project (if there is a `package.json` with a `start` command, but for the GTA-LEAKS project, you will need to do some tricks since the project has a local database that won't be accessible, but you can try running it via `npm frontend`):
+   ```sh
    npm start
    ```
 
 5. ✨ Contacts:
    If you have any questions or suggestions, feel free to contact me:
    tg: @sav_7_age
-
 
 =============================================================================================================================================================================================================================================
 
